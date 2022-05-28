@@ -1,2 +1,2 @@
 # CG-WebGL
-WebGL projects that I developed during the Computer Graphics course
+WebGL homeworks that I made during the Computer Graphics course
